@@ -6,6 +6,6 @@ commandline about like:
 python chessmailinfos.py name1 name2
 
 output builds a table formatted as wikitags.
-{{CLUBLIGA/Spieler|{name}} <!--* {name}|| {rating} *-->||{{CLUBLIGA/Spieler|{name}}
+{{CLUBLIGA/Spieler|{name}} !--* {name}|| {rating} *--||{{CLUBLIGA/Spieler|{name}}
 
 prereq: pip install requests
